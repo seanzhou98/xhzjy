@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "https://bbsok.cf">
+ <tv generator-info-name="bbsok.cf" generator-info-url="tg@homenet6">
+    <channel id="100001">
+        <display-name lang="zh">我和我的祖国</display-name>
+    </channel>
+    <channel id="100002">
+        <display-name lang="zh">唐顿庄园</display-name>
+    </channel>
+    <channel id="100003">
+        <display-name lang="zh">鬼影特工</display-name>
+    </channel>
+    <channel id="100004">
+        <display-name lang="zh">续命之徒</display-name>
+    </channel>
+    <channel id="100005">
+        <display-name lang="zh">爱尔兰人</display-name>
+    </channel>
+   <channel id="100006">
+        <display-name lang="zh">JOKER</display-name>
+    </channel>
+   <channel id="100007">
+        <display-name lang="zh">热气球飞行家</display-name>
+    </channel>
+ <channel id="100008">
+        <display-name lang="zh">宗教的传承</display-name>
+    </channel>
+<channel id="100100">
+        <display-name lang="zh">反馈交流群</display-name>
+    </channel>
+ <channel id="100009">
+        <display-name lang="zh">婚姻故事</display-name>
+    </channel>
+ 
+<programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100001">
+<title lang="zh">我和我的祖国</title>
+<desc lang="zh">  直连流量有限，如无法播放，请设置tivimate用第三方播放器播放，推荐使用nplayer，走翻墙流量。七位导演分别取材新中国成立70周年以来，祖国经历的无数个历史性经典瞬间。讲述普通人与国家之间息息相关密不可分的动人故事。聚焦大时代大事件下，小人物和国家之间，看似遥远实则密切的关联，唤醒全球华人共同回忆。</desc> </programme>
+ 
+<programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100002">
+<title lang="zh">唐顿庄园</title>
+<desc lang="zh">  直连流量有限，如无法播放，请设置tivimate用第三方播放器播放，推荐使用nplayer，走翻墙流量。电影版《唐顿庄园》讲述了新的故事：一向暗流涌动的唐顿庄园突然接到一封意外信件，英国皇室即将造访。当象征着大不列颠最高权力的国王夫妇来到这座偏安一隅的乡间宅邸，等待唐顿庄园主人们的将会是怎样的挑战；当两种都以高冷优雅、荣誉体面为毕生追求的人群相遇，又将发生怎样意想不到的碰撞？《唐顿庄园》携经典演员阵容回归，首度通过大银幕演绎一段镌刻着浓郁英伦气息的全新贵族篇章。</desc> </programme>
+ 
+<programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100003">
+<title lang="zh">鬼影特工</title>
+<desc lang="zh">  直连流量有限，如无法播放，请设置tivimate用第三方播放器播放，推荐使用nplayer，走翻墙流量。来自世界各地的六人，个个都是各自领域的佼佼者。他们之所以被选中，不单是因为能力出众，还在于其独特的志向：他们想抹杀自己的过去以改变未来。一位神秘的领袖（瑞恩·雷诺兹饰）将他们召集到一起组成了这个团队，他毕生唯一的使命就是确保即使他和自己的同伴会被遗忘，但也要让人们永远铭记他们所做的一切。</desc> </programme>
+ 
+ 
+<programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100005">
+<title lang="zh">爱尔兰人</title>
+<desc lang="zh">   直连流量有限，如无法播放，请设置tivimate用第三方播放器播放，推荐使用nplayer，走翻墙流量。《爱尔兰人》为马丁·斯科塞斯执导的传奇巨制，罗伯特·德尼罗、阿尔·帕西诺和乔·佩西主演。通过二战老兵弗兰克·希兰的视角，讲述了战后美国有组织犯罪的故事。弗兰克·希兰是一名骗子和杀手，曾经在 20 世纪最恶名昭彰的人物身边工作。该电影跨越数十年，记录了美国历史上最大的悬案之一，即传奇工会领袖吉米·霍法失踪案，以宏大的故事之旅，展现有组织犯罪的隐秘通道：其内部运作、仇敌以及与主流政治的瓜葛。</desc> </programme>
+ 
+<programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100004">
+<title lang="zh">续命之徒</title>
+<desc lang="zh">  直连流量有限，如无法播放，请设置tivimate用第三方播放器播放，推荐使用nplayer，走翻墙流量。Netflix 电视内容《续命之徒：绝命毒师电影》回归，主角杰西·平克曼（艾美奖得主亚伦·保尔饰演）再次与粉丝见面。杰西戏剧性地逃出囚禁后，他必须接受自己的过去，才有可能创造未来。这部扣人心弦的惊悚片由《绝命毒师》的创剧人文斯·吉里根编写和执导。该电影由马克·约翰逊、梅利莎·伯恩斯坦、查尔斯·纽沃斯、黛安娜·默瑟和亚伦·保尔以及 Sony Pictures Television 联合制作。</desc> </programme>
+
+<programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100006">
+<title lang="zh">JOKER</title>
+<desc lang="zh">  直连流量有限，如无法播放，请设置tivimate用第三方播放器播放，推荐使用nplayer，走翻墙流量。电影《小丑》以同名DC漫画角色为基础，由华纳兄弟影业公司发行，计划于2019年10月4日上映。本片的故事将独立于DCEU之外，故事背景设置在20世纪80年代，讲述了一位生活陷入困境的脱口秀喜剧演员渐渐走向精神的崩溃，在哥谭市开始了疯狂的犯罪生涯，最终成为了蝙蝠侠的宿敌“小丑”的故事。</desc> </programme>
+
+<programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100007">
+<title lang="zh">热气球飞行家</title>
+<desc lang="zh">  直连流量有限，如无法播放，请明日再试。讲述在1862年，热气球驾驶员Amelia Wren和科学家James Glaisher踏上了一段非凡的旅程，去寻找天堂的奥秘。在飞行过程中，他们的飞行高度突破了世界纪录，也有了令人惊叹的发现。然而当他们即将达到大气层时，被迫为了生存而展开史诗般的斗争。</desc> </programme>
+
+<programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100008">
+<title lang="zh">教宗的承继</title>
+<desc lang="zh">  直连流量有限，如无法播放，请明日再试。这是一个真实的故事，讲述了近 2000 年来最戏剧性的权力交接事件之一。主教贝尔格利奥（乔纳森·普雷斯饰演）对教会的发展方向感到十分失望，因此向教皇本笃（安东尼·霍普金斯饰演）申请在 2012 年退休。然而，面对丑闻和自我怀疑，善于内省的教皇本笃召见对他最严厉的批判者和未来的继任者来到罗马，在梵蒂冈的围墙之内，展开了一场传统与进步、罪恶与宽恕之间的斗争，这两位截然不同的人直面各自的过去，以图寻找共同点，以及为全世界十亿信徒开创未来。</desc> </programme>
+
+<programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100100">
+<title lang="zh">直播源介绍</title>
+<desc lang="zh">  您正在使用的IPTV频道订阅列表，是由“家庭网络资源共享群”（电报ID：@homenet6）群友集体收集、整理，基于“电视多”直播源，增补部分常见频道整合而成。"电视多"直播源中国大陆线路播放流畅，增补频道海外线路播放流畅，建议路由器设置大陆白名单模式，确保全部频道正常流畅。用户交流电报群：@homenet6 欢迎加入！</desc> </programme>
+
+<programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100009">
+<title lang="zh">婚姻故事</title>
+<desc lang="zh">  直连流量有限，如无法播放，请明日再试。以一起离婚事件探讨婚姻和爱情，诺亚·鲍姆巴赫执导， 亚当·德赖弗扮演一个剧作家，斯嘉丽·约翰逊扮演一个女明星，两人因各自工作分居纽约和洛杉矶而不得不走向离婚，主演另有劳拉·邓恩、格蕾塔·葛韦格。 Netflix参与制作。</desc> </programme>
+
+</tv>
