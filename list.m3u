@@ -16,6 +16,9 @@ http://i.mjh.nz/nz/tv.46.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png" group-title="News",Al Jazeera
 https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/BBC_World_News.png?raw=true" group-title="News",BBC WORLD NEWS
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/arirang.png" group-title="News",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
@@ -45,8 +48,21 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png" group-title="News",TRT World
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png" group-title="News",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_TV18.png?raw=true" group-title="NEWS",CNBC 18 News
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+
+RHK-31電視台,
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2020/THKCCT2020M05301837.smil/master.m3u8
 
 #EXINTF:-1 tvg-logo="" group-title="Sports",Red Bull TV
+
+#EXINTF:-1 tvg-logo="" group-title="Sports",莲花卫视
+rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Olympics Channel
 
