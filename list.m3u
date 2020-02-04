@@ -18,9 +18,16 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/BBC_World_News.png?raw=true" group-title="News",BBC WORLD NEWS
 http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="News",BBC News
+http://51.52.156.22:8888/http/004
+
+#EXTINF:-1 tvg-logo="https://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="News",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/arirang.png" group-title="News",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/arirang.png" group-title="News",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bloomberg.png" group-title="News",Bloomberg 
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
@@ -36,6 +43,9 @@ https://euronews-en-p7-cdn.hexaglobe.net/dba764688d1a688ba9ea5133f7adfdf0/5ddf38
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/france24.png" group-title="News",France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/il/i24.il.png" group-title="News",Israel 24
+https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/nhkworldjp.png" group-title="News",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_4M.m3u8
@@ -54,8 +64,12 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_TV18.png?raw=true" group-title="NEWS",CNBC 18 News
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 
-RHK-31電視台,
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/master.m3u8
+
+#EXINTF:-1 tvg-logo="" group-title="Sports",RHK-31電視台
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+#EXINTF:-1 tvg-logo="" group-title="Sports",RHK-31電視台
 https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2020/THKCCT2020M05301837.smil/master.m3u8
 
 #EXINTF:-1 tvg-logo="" group-title="Sports",Red Bull TV
