@@ -51,6 +51,8 @@ http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&ts
 http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 #EXTINF:-1 group-title="测试频道",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 group-title="测试频道",无线新闻台（备）
+http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="国际",凤凰资讯
 https://0472.org/hls/youzaiSB/fhzx.m3u8
 #EXTINF:-1 tvg-id="TVBrics" tvg-name="金砖中文" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="国际",金砖中文
